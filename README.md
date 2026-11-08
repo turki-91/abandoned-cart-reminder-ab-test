@@ -61,6 +61,8 @@ Python 3 مع `numpy`, `pandas`, `scipy`, `statsmodels`, `matplotlib`, `IPython`
 
 ## GitHub والتسليم
 
+[المستودع العام المعتمد للمشروع](https://github.com/turki-91/abandoned-cart-reminder-ab-test) — نُشرت نسخة اليوم الأول وتحققت مطابقة الملفات. هذه نسخة تقدم يومي وليست التسليم النهائي.
+
 نستخدم مستودعًا عامًا واحدًا طوال الدورة، ونحدّث الدفتر وREADME ونسجل commit لكل يوم مكتمل وفق تفضيل الفريق. رسالة نسخة اليوم الأول:
 
 `Day 1: complete project information, hypothesis, and experimental design (Sections 0-2)`
