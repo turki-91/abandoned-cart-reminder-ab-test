@@ -57,7 +57,7 @@
 
 ## طريقة التشغيل
 
-1. افتح `project_template.ipynb` في Google Colab من **File → Open notebook → GitHub**، أو عبر **Upload notebook** للنسخة المحلية.
+1. افتح النسخة المنشورة مباشرة من الرابط، أو اختر **File → Open notebook → GitHub** داخل Colab. [افتح دفتر المشروع في Colab](https://colab.research.google.com/github/turki-91/abandoned-cart-reminder-ab-test/blob/main/project_template.ipynb)
 2. لإعادة حساب اليوم الثاني، شغّل خلية **الأدوات الجاهزة**، ثم خليتي `CONFIG` وحجم العينة في **القسم 3**.
 3. لإعادة إنتاج النتائج المحفوظة، شغّل خلايا الكود بالترتيب حتى نهاية القسم 7. تبدأ المحاكاة في القسم 5، ثم تتحقق خلية القسم 6 من سلامة البيانات قبل حساب الأثر.
 4. تعرض مخرجات القسم 5 بذرة المحاكاة وإصداري NumPy وpandas المستخدمين.
