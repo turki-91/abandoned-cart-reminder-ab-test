@@ -2,3 +2,6 @@
 __pycache__/
 .DS_Store
 Thumbs.db
+
+# Generated synthetic user-level data
+/data/dataset.csv
