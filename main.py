@@ -8,6 +8,7 @@ import argparse
 from hashlib import sha256
 from pathlib import Path
 import json
+import sys
 
 import matplotlib
 matplotlib.use("Agg")
@@ -348,6 +349,7 @@ def run(destination):
 
 
 if __name__ == "__main__":
+    sys.stdout.reconfigure(encoding="utf-8")
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output-dir", type=Path, default=Path(__file__).resolve().parent,
                         help="Parent directory for data/ and outputs/.")
